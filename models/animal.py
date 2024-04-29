@@ -1,3 +1,5 @@
+# This Python class defines an "animal" with attributes such as 
+# name, age, color, and weight.
 class animal:
     def __init__(self, nombre=None, edad=None, color=None, peso=None):
         if nombre:
